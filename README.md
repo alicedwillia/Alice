@@ -12,7 +12,7 @@
 | **Project 6: Customer Reactivation Strategy** | Machine Learning | [Jupyter Notebook](./BBS_Projects/Machine_Learning/Customer_Reactivation_Strategy.ipynb) | [Client Data (csv)](./BBS_Projects/Machine_Learning/TOOL_CLIENT.csv) [Sales Data (csv)](./BBS_Projects/Machine_Learning/TOOL_SALES.csv.zip) | [Slides (PDF)](./BBS_Projects/Machine_Learning/Data_Driven_Customer_Reactivation_Strategy.pdf) |
 | **Project 7: Italian Wine Brands vs MASI Agricola Financial Statement Analysis** | Performance Measurement Systems | *N/A* | [Statements (excel)](./BBS_Projects/Performance_Measurement_Systems/Statements_Masi_IWB.xlsx) | [Slides (PDF)](./BBS_Projects/Performance_Measurement_Systems/IWB_MASI_Financial_Statement_Analysis.pdf) |
 
-> **Note on PDFs:** To bypass GitHub's preview rendering errors on larger files, all PDF links above are configured to open directly in your browser.
+> **Note on viewing PDFs:** GitHub occasionally struggles to preview large or media-heavy PDF files directly in the browser and may show an "Invalid PDF" error. If this happens, simply click the **Download** button on the error screen to view the full document instantly.
 
 ---
 
